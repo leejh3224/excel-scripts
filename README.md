@@ -12,6 +12,6 @@ This script must be executed as admin using powershell.
 # whatever location you've installed this script
 ps C:>.\install-python.ps1
 
-# install essential dependencies as well
+# (optional) install essential dependencies as well
 ps C:> .\install-dep.ps1
 ```
